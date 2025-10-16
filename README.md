@@ -26,3 +26,7 @@ Proveedor (opcional): Puede revisar pedidos o entregas.
 Objetivo general:
 
 Optimizar el control del inventario de la farmacia mediante un sistema web seguro, rápido y fácil de usar, desarrollado con PHP, que permita mejorar la organización, reducir errores humanos y garantizar una atención eficiente a los clientes.
+![Uploading image.png…]()
+Cristian Rodrigues Aguilar.
+Alison Apaza.
+
